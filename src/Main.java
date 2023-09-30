@@ -84,8 +84,8 @@ public class Main
 					fooWinner = 0;
 				}
 
-				System.out.println(fooInd + " \t " +  secondArray[1]
-						+ " \t " + fooWinner);
+//				System.out.println(fooInd + " \t " +  secondArray[1]
+//						+ " \t " + fooWinner);
 				newPrizHouse.addWinner(fooInd, secondArray[1] , fooWinner);
 			}
 		}
