@@ -1,0 +1,12 @@
+152;Ball;1360
+112;Machine;1193
+200;Table;1026
+300;Hammer;943
+5;Ball;465
+10;Lego;89
+9;Barby;1119
+8;Machine;1491
+6;Robot;976
+6;Robot;1051
+7;Tank;1514
+

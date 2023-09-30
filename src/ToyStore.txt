@@ -1,0 +1,8 @@
+4;rak;2;22
+5;Ball;17;77
+6;Robot;6;75
+7;Tank;8;40
+8;Machine;8;45
+9;Barby;9;85
+10;Lego;9;86
+
