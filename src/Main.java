@@ -40,7 +40,7 @@ public class Main
 
 
 	public static void TestMVP(){
-		View view = new ConsoleUI();
+		View view =(View) new ConsoleUI();
 
 		newToysHouse = new ToysHouse();
 		newToysHouse.setFileName(toysFiles);
